@@ -1,0 +1,23 @@
+.react-responsive-modal-closeButton {
+  display: none;
+}
+.react-responsive-modal-modal {
+  max-width: 100%;
+  width: 35%;
+  border-radius: 10px;
+}
+.profile_pic {
+  z-index: 1 !important;
+  position: relative;
+}
+/* .profile_pic::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  right: 0;
+  width: 100%;
+  height: 100%;
+  background-color: black;
+  border-radius: 50%;
+  z-index: 2;
+} */
